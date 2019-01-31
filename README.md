@@ -10,7 +10,7 @@ as a person name). Entity name dictionaries are often used to support those algo
 
 ## Result
 
-14.5/15 :thumbsup:
+14.5/15 :thumbsup: Preview Results: [Click here](http://htmlpreview.github.com/?https://github.com/jeremytee97/COMP10002-NamedEntityRecognition/blob/master/feedback.html)
 
 Overall comments from marker:
 > Well done! :)
